@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "2.2 Программа Имя Возраст Город ПИН код": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

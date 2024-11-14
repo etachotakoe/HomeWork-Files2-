@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "1.1 Выведение типов данных min max": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

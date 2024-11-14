@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "1.5 Бутылки. Подсчет.": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
